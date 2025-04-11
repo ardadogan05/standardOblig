@@ -16,5 +16,6 @@ Mye av det samme som oppgave 5, forskjellen er hvordan man regner ut neste u ver
 Kommentarer: 
 -Burde kanskje ha laget en fil for hver oppgave, beklager det.
 -Vet det er mye redundant kode, men det var bare å kopiere og lime over det meste.
+-Kanskje ha laget en funksjon for å velge metode, men valgte bare å kommentere ut. Bare å fjerne #
 
 
