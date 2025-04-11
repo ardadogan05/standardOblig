@@ -13,3 +13,8 @@ Når man bruker en implisittmetode får man neste verdi på begge sider av likni
 Oppg 6:
 Mye av det samme som oppgave 5, forskjellen er hvordan man regner ut neste u verdi. Benytter fortsatt fikspunktiterasjon, da Crank-Nicolson er en kombinasjon av implisitt og eksplisitt euler. Minner litt trapesmetoden, altså at den tar snittet mellom to forskjellige metoder for å gi et bedre estimat. Det er fortsatt samme kriterie for stabilitet.
 
+Kommentarer: 
+-Burde kanskje ha laget en fil for hver oppgave, beklager det.
+-Vet det er mye redundant kode, men det var bare å kopiere og lime over det meste.
+
+
